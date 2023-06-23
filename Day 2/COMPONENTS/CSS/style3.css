@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+    background-image: url("https://images.unsplash.com/39/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD%20%281%20of%201%29-5.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8Y29ycG9yYXRlJTIwb2ZmaWNlfGVufDB8fHx8MTY4NzA2NzEyNHww&ixlib=rb-4.0.3");
+}
+hr{
+    width: 100px;
+    height: 2px;
+    background-color: red;
+}
+h1{
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(90, 90, 90);
+    font-family: 'Oswald', sans-serif;
+    padding-top: 30px;
+}
+dt{
+    text-align: center;
+    font-weight: bolder;
+}
+dd{
+    text-align: center;
+    padding-top: 15px;
+    color: grey;
+}
+.Top_title{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    background-color: white;
+    width: 1300px;
+    height: 575px;
+}
+table{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 22px;
+}
+i{
+    font-size: 25px;
+}
+#SIGNUP_1{
+    border-radius: 3px;
+    height: 50px;
+    width: 400px;
+    margin-left: 180px;
+}
+#SUBMITBUTTON_1{
+    height: 40px;
+    width: 130px;
+    background-color: red;
+    color:white;
+    margin-left: 180px;
+}
+#MESSAGEBUTTON_1{
+    height: 100px;
+    width: 400px;
+    margin-left: 180px;
+}

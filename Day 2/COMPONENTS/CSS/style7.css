@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+body{
+    background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2012/09/05/12694/592c6fa00b8f4f9c13e56ac6bfdf0d71-700.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+div{
+    background-color: white;
+    width: 450px;
+    height: 615px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+    border-radius: 10px;
+}
+#Image_01{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 450px;
+    height: 300px;
+}
+input{
+    height: 38px;
+    width: 200px;
+    border-color: grey;
+    margin-left: 30px;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+button{
+    height: 43px;
+    width: 100px;
+    color: white;
+    margin-left: 10px;
+    border-radius: 3px;
+    background-color: rgb(255, 61, 61);
+    margin-top: 20px;
+}
+p{
+    font-family: 'Dosis', sans-serif;
+    margin-left: 25px;
+    letter-spacing: 1px;
+}
+.fa-xmark{
+    padding-left: 970px;
+    padding-top: 25px;
+    font-size: 25px;
+}
+article{
+    font-size: 20px;
+}
