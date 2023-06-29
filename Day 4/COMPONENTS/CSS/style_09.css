@@ -1,0 +1,6 @@
+p:nth-child(even){
+color: maroon;
+}
+p:nth-child(odd){
+    color: orange;
+    }
