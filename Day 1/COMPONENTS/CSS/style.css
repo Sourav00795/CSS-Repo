@@ -1,0 +1,16 @@
+*{
+    text-decoration: underline;
+}
+h1{
+    background-color: bisque;
+}
+li,dd{
+    background-color: cyan;
+}
+#content_Center{
+    text-align: center;
+}
+.size_Adjusting{
+    font-size: 30px;
+    line-height: 50px;
+}
