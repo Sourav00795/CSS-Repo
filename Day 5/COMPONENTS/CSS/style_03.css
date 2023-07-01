@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant&display=swap');
+
+h1{
+    color: #72bca9;
+    padding-left: 20px;
+    margin-top: -2px;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+h2{
+    font-size: 20px;
+    letter-spacing: 3.3px;
+    padding-left: 20px;
+    margin-top: -29px;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+h3{
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-align: center;
+    padding-top: 40px;
+}
+h4{
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-align: center;
+    margin-top: -15px;
+    font-weight: lighter;
+}
+h5{
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+h6{
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-weight: lighter;
+    margin-top: -23px;
+}
+hr{
+    width: 100px;
+    height: 3px;
+    background-color: gray;
+}
+li{
+    list-style: none;
+    display: inline;
+    text-align: right;
+    margin: 15px;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+nav{
+    margin-left: 500px;
+    margin-top: -60px;
+    font-weight: bold;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+div{
+    height: 236px;
+    width: 200px;
+    background-color: white;
+    margin: 15px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.241);
+}
+.Image_01{
+    padding-top: 30px;
+}
+.Image_02{
+    padding-top: 10px;
+}
+.Image_03{
+    padding-top: 30px;
+}
+.Image_04{
+    padding-top: 25px;
+}
+.Image_05{
+    margin-top: 30px;
+}
+.Image_06{
+    margin-top: 30px;
+}
+.Image_07{
+    margin-top: 30px;
+}
+.Image_08{
+    margin-top: 30px;
+}
+.Image_01_Title{
+    margin-top: -2px;
+}
+.Image_02_Title{
+    margin-top: -25px;
+}
+.Image_03_Title{
+    margin-top: 5px;
+}
+.Image_04_Title{
+    margin-top: -2px;
+}
+.Image_05_Title{
+    margin-top: 10px;
+}
+.Image_06_Title{
+    margin-top: 5px;
+}
+.Image_07_Title{
+    margin-top: 1px;
+}
+.Image_08_Title{
+    margin-top: -3px;
+}

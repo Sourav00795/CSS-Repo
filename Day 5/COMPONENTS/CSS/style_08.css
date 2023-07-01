@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+/* First Box Starts */
+.div_01{
+    height: 270px;
+    width: 700px;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 95px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.39) 0px 1px 20px;
+}
+.sunway_forest_Image{
+    height: 270px;
+    width: 215px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.heading_01{
+    color: black;
+    padding-left: 235px;
+    margin-top: -250px;
+}
+.icon1{
+    color: black;
+    font-size: 23px;
+    padding-left: 250px;
+    margin-top: -100px;
+}
+.sub_heading_01{
+    color: rgb(31, 31, 31);
+    padding-left: 235px;
+    margin-top: -10px;
+    font-size: 15px;
+}
+.ratings_01{
+    padding-left: 235px;
+    font-size: 15px;
+}
+.ratings_Description_01{
+    padding-left: 235px;
+    margin-top: -8px;
+}
+.Description_01{
+    padding-left: 235px;
+    max-width: 425px;
+    font-size: 14px;
+    line-height: 22px;
+}
+.fa-location-dot{
+    color: black;
+    font-size: 14px;
+}
+.fa-star{
+    color: gold;
+    font-size: 16px;
+    margin: 1px;
+}
+.fa-star-half-stroke{
+    color: gold;
+    font-size: 18px;
+    margin: 1px;
+}
+/* First Box Ends */
+
+/* Second Box Starts */
+.div_02{
+    height: 150px;
+    width: 335px;
+    background-color: whitesmoke;
+    margin-top: 30px;
+    margin-left: 385px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.39) 0px 1px 20px;
+}
+.green_valley_Image{
+    height: 150px;
+    width: 130px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.heading_02{
+    color: black;
+    padding-left: 140px;
+    margin-top: -135px;
+    font-size: 15px;
+}
+.sub_heading_02{
+    color: rgb(31, 31, 31);
+    padding-left: 140px;
+    margin-top: -5px;
+    font-size: 15px;
+}
+.ratings_02{
+    padding-left: 135px;
+    margin-top: -8px;
+    font-size: 15px;
+}
+.ratings_Description_02{
+    padding-left: 135px;
+    font-size: 14px;
+    margin-top: -8px;
+}
+.icon2{
+    padding-left: 10px;
+}
+/* Second Box ends */
+
+/* Third Box Starts */
+.div_03{
+    height: 150px;
+    width: 335px;
+    background-color: whitesmoke;
+    margin-top: -150px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.39) 0px 1px 20px;
+    float: left;
+    margin-left: 750px;
+}
+.view_of_mountain_Image{
+    height: 150px;
+    width: 130px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.heading_03{
+    color: black;
+    padding-left: 140px;
+    margin-top: -135px;
+    font-size: 15px;
+}
+.sub_heading_03{
+    color: rgb(31, 31, 31);
+    padding-left: 140px;
+    margin-top: -5px;
+    font-size: 15px;
+}
+.ratings_03{
+    padding-left: 135px;
+    margin-top: -8px;
+    font-size: 15px;
+}
+.ratings_Description_03{
+    padding-left: 135px;
+    font-size: 14px;
+    margin-top: -8px;
+}
+.icon3{
+    padding-left: 30px;
+}

@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Nunito:wght@300&display=swap');
+
+body{
+    background-color: rgb(228, 228, 228);
+    font-family: 'Lato', sans-serif;
+font-family: 'Nunito', sans-serif;
+}
+.toggle_Icon{
+    height: 50px;
+    width: 50px;
+    margin-left: 715px;
+    margin-top: 5px;
+}
+section{
+    display: inline;
+    font-size: 20px;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.parent_Div{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.325) 0px 3px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 590px;
+    width: 380px;
+    border-radius: 10px;
+}
+.profile_Image{
+    background-image: url('https://images.unsplash.com/photo-1484186139897-d5fc6b908812?ixlib=rb-0.3.5&s=9358d797b2e1370884aa51b0ab94f706&auto=format&fit=crop&w=200&q=80%20500w');
+    background-size: contain;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+}
+.check{
+    height: 20px;
+    width: 20px;
+    margin-top: -35px;
+    background-color: rgb(221, 3, 137);
+    color: white;
+    border-radius: 50%;
+    margin-left: 235px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.sub_Heading{
+    margin-top: -20px;
+    text-align: center;
+    color: #c2c3c6;
+}
+.content_Lorem{
+    max-width: 325px;
+    margin-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border: 0;
+    border-radius: 20px;
+    background: linear-gradient(to bottom right, #d4177a 25%, #f24797 75%);
+    color: white;
+}
+.dribble_Icon,.behance_Icon,.twitter_Icon{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dribble_Icon{
+    background: linear-gradient(to bottom right, #d4177a 25%, #f24797 75%);
+    color: white;
+}
+.behance_Icon{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(to bottom right, #5867f6 25%, #4992f8 75%);
+    color: white;
+}
+.twitter_Icon{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;       
+    background: linear-gradient(to bottom right, #645ef3 25%, #618ff4 75%);
+    color: white;
+}
+.fa-dribbble,.fa-twitter,.fa-behance{
+    margin-top: 13px;
+}
+.second_Row{
+    margin-top: 10px;
+}
+.third_Row{
+    margin-top: -24px;
+    margin-left: 25px;
+    margin-right: 25px;       
+}
+.fa-left-long{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.fa-heart{
+    margin-left: 280px;
+    margin-top: 15px;
+}
+.fa-ellipsis-vertical{
+    margin-left: 10px;
+    margin-top: 15px;
+}

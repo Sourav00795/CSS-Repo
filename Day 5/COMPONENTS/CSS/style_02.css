@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+body{
+    background-color: #777777;
+}
+.popup_Box{
+    height: 550px;
+    width: 475px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 85px;
+    border-radius: 8px;
+}
+h1{
+    text-align: center;
+    padding-top: 75px;
+    font-family: 'Noto Sans', sans-serif;
+}
+input{
+    width: 293px;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px;
+    border-color: #9b9b9b;
+    border-radius: 5px;
+    border-style: solid;
+    font-family: 'Noto Sans', sans-serif;
+}
+button{
+    width: 300px;
+    height: 36px;
+    background-color: #4fa4b8;
+    color: white;
+    border-style: none;
+    border-radius: 18px;
+    font-family: 'Noto Sans', sans-serif;
+    margin-top: 15px;
+}
+section{
+    text-align: center;
+}
+table td{
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    font-family: 'Noto Sans', sans-serif;
+}
+i{
+    font-size: 25px;
+}
+.icon_bg{
+    height: 32px;
+    width: 27px;
+    border-radius: 45%;
+    background-color: rgb(135, 135, 135);
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+a:link{
+    color: #4fa4b8;
+    text-transform: none;
+    text-decoration: none;
+}

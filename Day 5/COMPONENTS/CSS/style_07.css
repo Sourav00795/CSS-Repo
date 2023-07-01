@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+body{
+    background-color: rgb(62, 62, 62);
+    font-family: 'Noto Sans', sans-serif;
+}
+.top_Image{
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://www.bruegel.org/sites/default/files/styles/featured_image_medium_with_focal_point/public/wp_images/-mr-cup-fabien-barral-Mwuod2cm8g4-unsplash.webp?h=4c4b3839&itok=p55LmQ4C);
+    height: 400px;
+    width: 500px;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.bottom_Content{
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 15px;
+    height: 400px;
+    width: 500px;
+    margin-top: -100px;
+    background-color: white;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    max-width: 450px;
+    line-height: 25px;
+}
+section{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    text-align: left;
+    padding-top: 10px;
+}
+button{
+    height: 40px;
+    width: 130px;
+    margin-left: 30px;
+    margin-top: 5px;
+    border-radius: 10px;
+    border-width: 0;
+    background-color: #323e4a;
+    color: white;
+}
+h3,p{
+    color: #8c9397;
+}
+h1{
+    color: #57595a;
+}

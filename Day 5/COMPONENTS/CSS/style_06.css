@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+
+body{
+    background-color: #e7f0f9;
+    font-family: 'Nunito', sans-serif;
+}
+.parent_Div{
+    background-color: white;
+    height: 660px;
+    width: 450px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Head_1{
+    max-width: 250px;
+    margin-left: 25px;
+    margin-top: -130px;
+}
+.button_01{
+    height: 37px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 25px;
+    border: solid rgba(0, 0, 0, 0.137) 1px;
+    background-color: #0068c9;
+    color: white;
+}
+.top_Image{
+    padding-left: 290px;
+    padding-top: 20px;
+    height: 130px;
+    width: 130px;
+}
+.child_Div_01{
+    background-color: #e6f0fa;
+    height: 100px;
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.COVID-19_Icon{
+    height: 60px;
+    width: 60px;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.sub_Head_1{
+    float: right;
+    margin-top: 10px;
+    margin-right: 145px;
+}
+.sub_Para_1{
+    margin-top: -30px;
+    margin-left: 95px;
+    font-size: 13px;
+    float: right;
+}
+.sub_Head_2{
+    margin-top: 15px;
+    margin-left: 25px;
+    font-size: 20px;
+}
+.Icon{
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+}
+.child_Div_021{
+    background-color: #3abe96;
+    color: white;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -2px;
+    text-align: center;
+    border-radius: 10px;
+}
+.child_Div_022{
+    background-color: #e364a4;
+    color: white;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-right: 20px;
+    text-align: center;
+    margin-top: -2px;
+    border-radius: 10px;
+}
+.child_Div_023{
+    background-color: #a365f8;
+    color: white;
+    height: 100px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    margin-top: -2px;
+    border-radius: 10px;
+}
+.sub_Head_3{
+    margin-top: 135px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.child_Div_03{
+    background-color: #fceaea;
+    height: 150px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-top: -5px;
+}
+.sub_Head_4{
+    margin-top: -80px;
+    margin-left: 95px;
+    font-size: 22px;
+}
+.sub_Para_2{
+    margin-left: 95px;
+    margin-top: -13px;
+    font-size: 15px;
+}
+.d_Icon{
+    height: 60px;
+    width: 60px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.button_02{
+    height: 35px;
+    width: 110px;
+    border-radius: 8px;
+    margin-left: 95px;
+    border: solid rgba(0, 0, 0, 0.137) 1px;
+    background-color: #0068c9;
+    color: white;
+    margin-top: -10px;
+}
