@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+body{
+    background-color: rgb(224, 222, 222)
+}
+table{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+    text-align: left;
+    background-color: white;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.455);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+thead{
+    background-color: #029779;
+    color: white;
+}
+td,th{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+th:first-child{
+    border-top-left-radius: 7px;
+}
+th:last-child{
+    border-top-right-radius: 7px;
+}
+tr:nth-child(1){
+    border-bottom: rgb(195, 195, 195) solid 2px;
+}
+tr:nth-child(2){
+    border-bottom: rgb(195, 195, 195) solid 2px;
+}
+tr:last-child{
+    border-bottom: #029779 solid 4px;
+}
+tr:hover{
+    background-color: rgba(197, 197, 197, 0.478);
+    color: #029779;
+    font-weight: 1000;
+}
